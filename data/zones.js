@@ -19,7 +19,7 @@ const Zones = [
     },
     {
         name: "Route 3",
-        description: "Connects Pewter City to Mt. Moon, or to Route 4 threw a tunnel.",
+        description: "Connects Pewter City to Mt. Moon, or to Route 4 though a tunnel.",
         type: "route",
         mart: [],
         poi: [],
